@@ -1,0 +1,8 @@
+{
+  "name": "마켓모음 (Market Mo-um)",
+  "description": "전국 각지의 장인 정신과 로컬의 가치를 담은 프리미엄 커머스 & 컨설팅 플랫폼",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
